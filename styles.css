@@ -1,1 +1,19 @@
-/* Write your CSS here! */
+html {
+  margin: auto;
+  display: contents;
+}
+#mainHeading {
+  color: red;
+}
+.funParagraph {
+  color: green;
+}
+div {
+  display: block;
+  margin: auto;
+  text-align: center;
+  padding: 50;
+}
+figcaption {
+  font-size: small;
+}
